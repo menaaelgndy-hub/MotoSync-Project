@@ -1,8 +1,6 @@
 # 🎓 MotoSync - Graduation Project (2026)
 
-<p align="center">
-  <img src="<img width="850" height="395" alt="WhatsApp Image 2026-04-17 at 4 59 30 AM" src="https://github.com/user-attachments/assets/34d0e54c-96c5-4517-91b8-fd904b6296d1.jpeg" />" width="100%" alt="MotoSync Project Preview">
-</p>
+![MotoSync]<img width="850" height="395" alt="WhatsApp Image 2026-04-17 at 4 59 30 AM" src="https://github.com/user-attachments/assets/f90517af-f9b4-44c8-b248-18598bf62b54" />
 
 ## 🚧 Project Status: Under Development
 Currently in the **System Analysis & Design** phase.
